@@ -328,4 +328,4 @@ if __name__ == "__main__":
     open_target(target_=config.match, name='口算pk', check=True, check_target=config.match_check)
     time.sleep(2)
     
-    match()
+    match(config.times)

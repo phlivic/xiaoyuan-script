@@ -17,3 +17,6 @@ step3 = 'step3.png'
 check1 = 'check1.png'
 check2 = 'check2.png'
 check3 = 'check3.png'
+
+# 执行次数
+times = 10
