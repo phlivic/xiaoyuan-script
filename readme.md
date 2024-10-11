@@ -5,3 +5,5 @@
 部分弹窗会造成卡顿，暂未设计处理机制。
 
 不定期更新。
+
+use python run.py to execute.
